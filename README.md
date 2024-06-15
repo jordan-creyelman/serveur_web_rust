@@ -26,9 +26,6 @@ Copier le code
 cargo build
 3. Run the server
 Start the server with:
-
-sh
-Copier le code
 cargo run
 The server will start running on http://127.0.0.1:8088.
 
