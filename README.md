@@ -1,6 +1,5 @@
 # serveur_web_rust
-markdown
-Copier le code
+
 # Rust Web Server with Middleware
 
 This is a simple web server built with Rust using the Actix Web framework. It demonstrates the use of middleware for logging and error handling.
